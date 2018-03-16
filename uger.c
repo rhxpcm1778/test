@@ -15,6 +15,8 @@ int main(void)
 	printf("world.\n");
 	printf("hello\n");
 	printf("uger\n");
+	printf("hello\n");
+	printf("uger2\n");
 	return 0;
 
 }
