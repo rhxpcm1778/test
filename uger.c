@@ -13,7 +13,8 @@ int main(void)
 
 	printf("hello\n");
 	printf("world.\n");
-
+	printf("hello\n");
+	printf("uger\n");
 	return 0;
 
 }
